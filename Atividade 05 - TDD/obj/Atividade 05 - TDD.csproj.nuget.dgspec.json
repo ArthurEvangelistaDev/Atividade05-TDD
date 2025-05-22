@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arthu\\OneDrive\\Desktop\\Atividade5_TDD\\Atividade 05 - TDD\\Atividade 05 - TDD\\Atividade 05 - TDD.csproj": {}
+    "C:\\Users\\arthu\\OneDrive\\Desktop\\Atividade5_TDD\\Atividade 05 - TDD\\Atividade05-TDD\\Atividade 05 - TDD\\Atividade 05 - TDD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthu\\OneDrive\\Desktop\\Atividade5_TDD\\Atividade 05 - TDD\\Atividade 05 - TDD\\Atividade 05 - TDD.csproj": {
+    "C:\\Users\\arthu\\OneDrive\\Desktop\\Atividade5_TDD\\Atividade 05 - TDD\\Atividade05-TDD\\Atividade 05 - TDD\\Atividade 05 - TDD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Desktop\\Atividade5_TDD\\Atividade 05 - TDD\\Atividade 05 - TDD\\Atividade 05 - TDD.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Desktop\\Atividade5_TDD\\Atividade 05 - TDD\\Atividade05-TDD\\Atividade 05 - TDD\\Atividade 05 - TDD.csproj",
         "projectName": "Atividade 05 - TDD",
-        "projectPath": "C:\\Users\\arthu\\OneDrive\\Desktop\\Atividade5_TDD\\Atividade 05 - TDD\\Atividade 05 - TDD\\Atividade 05 - TDD.csproj",
+        "projectPath": "C:\\Users\\arthu\\OneDrive\\Desktop\\Atividade5_TDD\\Atividade 05 - TDD\\Atividade05-TDD\\Atividade 05 - TDD\\Atividade 05 - TDD.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\OneDrive\\Desktop\\Atividade5_TDD\\Atividade 05 - TDD\\Atividade 05 - TDD\\obj\\",
+        "outputPath": "C:\\Users\\arthu\\OneDrive\\Desktop\\Atividade5_TDD\\Atividade 05 - TDD\\Atividade05-TDD\\Atividade 05 - TDD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.14.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

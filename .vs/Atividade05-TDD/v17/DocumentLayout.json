@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arthu\\OneDrive\\Desktop\\Atividade5_TDD\\Atividade 05 - TDD\\Atividade05-TDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3237BB90-0F50-3880-BC87-3D714E027AB8}|Atividade 05 - TDD\\Atividade 05 - TDD.csproj|c:\\users\\arthu\\onedrive\\desktop\\atividade5_tdd\\atividade 05 - tdd\\atividade05-tdd\\atividade 05 - tdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237BB90-0F50-3880-BC87-3D714E027AB8}|Atividade 05 - TDD\\Atividade 05 - TDD.csproj|solutionrelative:atividade 05 - tdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Desktop\\Atividade5_TDD\\Atividade 05 - TDD\\Atividade05-TDD\\Atividade 05 - TDD\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade 05 - TDD\\Program.cs",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Desktop\\Atividade5_TDD\\Atividade 05 - TDD\\Atividade05-TDD\\Atividade 05 - TDD\\Program.cs",
+              "RelativeToolTip": "Atividade 05 - TDD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:27:39.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

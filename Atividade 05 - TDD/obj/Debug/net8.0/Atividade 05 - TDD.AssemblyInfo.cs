@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atividade 05 - TDD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+155cc3212dfaf482b4ce06cdfed7f5528f657948")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atividade 05 - TDD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atividade 05 - TDD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
