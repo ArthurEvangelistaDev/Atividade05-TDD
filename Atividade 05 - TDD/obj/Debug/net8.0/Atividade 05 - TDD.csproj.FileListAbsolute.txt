@@ -1,0 +1,14 @@
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\bin\Debug\net8.0\Atividade 05 - TDD.exe
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\bin\Debug\net8.0\Atividade 05 - TDD.deps.json
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\bin\Debug\net8.0\Atividade 05 - TDD.runtimeconfig.json
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\bin\Debug\net8.0\Atividade 05 - TDD.dll
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\bin\Debug\net8.0\Atividade 05 - TDD.pdb
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\obj\Debug\net8.0\Atividade 05 - TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\obj\Debug\net8.0\Atividade 05 - TDD.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\obj\Debug\net8.0\Atividade 05 - TDD.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\obj\Debug\net8.0\Atividade 05 - TDD.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\obj\Debug\net8.0\Atividade 05 - TDD.dll
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\obj\Debug\net8.0\refint\Atividade 05 - TDD.dll
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\obj\Debug\net8.0\Atividade 05 - TDD.pdb
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\obj\Debug\net8.0\Atividade 05 - TDD.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Desktop\Atividade5_TDD\Atividade 05 - TDD\Atividade 05 - TDD\obj\Debug\net8.0\ref\Atividade 05 - TDD.dll
